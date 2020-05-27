@@ -9,4 +9,5 @@ export default class RentalImageComponent extends Component {
     @action toggleSize() {
         this.isLarge = !this.isLarge;
     }
+
 }
